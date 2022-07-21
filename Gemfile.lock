@@ -95,7 +95,7 @@ GEM
     tilt (1.4.1)
     turbolinks (2.5.3)
       coffee-rails
-    tzinfo (0.3.60)
+    tzinfo (0.3.61)
     uglifier (2.7.0)
       execjs (>= 0.3.0)
       json (>= 1.8.0)
